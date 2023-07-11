@@ -98,3 +98,19 @@
     text-align: center;
     margin: 10px 750px 10px 750px;
 }
+.footer-column{
+    text-align: center;
+    background-color: black;
+    background-size: 100vh;
+    background-position: top;
+}
+.footer-title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.first{
+    color: red;
+}
+.secend{
+    color: white;
+}
