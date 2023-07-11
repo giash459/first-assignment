@@ -85,4 +85,16 @@
     justify-content: space-around;
     margin: 0px;
 }
+.section-4{
+    height: 100vh;
+    background-image: url("./images/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.section-photo{
+    text-align: center;
+    margin: 10px 750px 10px 750px;
 }
